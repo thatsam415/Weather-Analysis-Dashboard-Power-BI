@@ -40,4 +40,4 @@ This project provides a comprehensive analysis of weather data from **2006 to 20
 
 1. Download the repo:
    ```bash
-   git clone https://github.com/thatsam415/weather-analysis-powerbi.git
+   git clone https://github.com/thatsam415/Weather-Analysis-Dashboard-Power-BI-
