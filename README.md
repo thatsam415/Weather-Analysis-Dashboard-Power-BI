@@ -1,4 +1,4 @@
-# 🌦️ Weather-Analysis-Dashboard-Power-BI-
+# 🌦️ Weather-Analysis-Dashboard-Power-BI
 Interactive weather data analysis using Power BI (2006–2016)
 
 This project provides a comprehensive analysis of weather data from **2006 to 2016** using **Power BI**. It includes visualizations and interactive filters to explore trends in temperature, wind speed, visibility, and precipitation type.
@@ -40,4 +40,4 @@ This project provides a comprehensive analysis of weather data from **2006 to 20
 
 1. Download the repo:
    ```bash
-   git clone https://github.com/thatsam415/Weather-Analysis-Dashboard-Power-BI-
+   git clone https://github.com/thatsam415/Weather-Analysis-Dashboard-Power-BI
